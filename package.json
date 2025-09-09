@@ -1,17 +1,32 @@
 {
     "name": "domain-dissidents",
     "version": "1.0.0",
-    "description": "Protest against coorperate misdoings through generating a customizable website to encourage brand boycotts.",
+    "description": "Protest against coorperate misdoings through generating a website to encourage brand boycotts en masse.",
     "main": "index.js",
     "scripts": {
+        "start": "node .",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/rynstwrt/DomainDissidents.git"
     },
-    "keywords": ["domain", "dissidents"],
+    "keywords": [
+        "domain",
+        "dissidents",
+        "protest",
+        "protests",
+        "domaindissidents",
+        "domaindissident",
+        "website",
+        "generator",
+        "template",
+        "customizable"
+    ],
     "author": "Ryn Stewart",
-    "license": "ISC",
-    "packageManager": "pnpm@10.15.1"
+    "license": "UNLICENSE",
+    "packageManager": "pnpm@10.15.1",
+    "dependencies": {
+        "domain-dissidents": "file:domaindissidents"
+    }
 }
