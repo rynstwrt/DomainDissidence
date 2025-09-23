@@ -75,7 +75,7 @@
     border: none;
     box-sizing: border-box;
     font-family: inherit;
-    font-size: 24px;
+    font-size: 19px;
 }
 
 
@@ -92,7 +92,6 @@ body {
     justify-content: center;
     align-items: center;
     /*font-style: normal;*/
-
 }
 
 
