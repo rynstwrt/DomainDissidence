@@ -1,10 +1,72 @@
 :root {
-    /*#FF8255*/
-    --color-1: oklch(0.7402 0.1638 40.05);
+    --color-1: oklch(0.7402 0.1638 40.05);  /*#FF8255*/
+    --color-2: oklch(0.8294 0.1638 40.05);  /*#FFAB89*/
+    --color-3: white;
 
-    /*#FFAB89*/
-    --color-2: oklch(0.8294 0.1638 40.05);
+    /*--font-1: "", sans-serif;*/
+    /*--font-2: "", sans-serif;*/
+    /*--font-content: "", sans-serif;*/
 }
+
+
+
+/* 2 STYLES:
+    - Italic: 0
+    - Weight: 100-900 */
+.lexend-giga-variable-font {
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* 2 STYLES:
+        - Italic: 0
+        - Weight: 300-900 */
+.rubik-variable-font {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* 3 STYLES:
+        - Italic: 0
+        - Width: 100
+        - Weight: 300-800 */
+.open-sans-variable-font {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;  
+    font-style: normal;
+    font-variation-settings:
+            "wdth" 100;
+}
+
+/* 3 STYLES:
+    - Italic: 0
+    - Optical size: auto
+    - Weight: 100-900 */
+.inter-variable-font {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;  
+    font-style: normal;
+}
+
+/* 3 STYLES:
+    - Italic: 0
+    - Width: 100
+    - Weight: 100-900 */
+.roboto-variable-font {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;  
+    font-style: normal;
+    font-variation-settings:
+            "wdth" 100;
+}
+
 
 
 * {
@@ -12,6 +74,8 @@
     padding: 0;
     border: none;
     box-sizing: border-box;
+    font-family: inherit;
+    font-size: 24px;
 }
 
 
@@ -21,5 +85,42 @@ html, body {
 
 
 body {
-    background-color: var(--color-1);
+    background-color: var(--color-2);
+    color: var(--color-3);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*font-style: normal;*/
+
+}
+
+
+header {
+    position: absolute;
+    top: 0;
+    right: 0;
+    /*bottom: 0;*/
+    left: 0;
+    background-color: red;
+    padding: 15px;
+
+    div#title-container {
+        /*position: relative;*/
+    }
+
+    h1#title {
+        font-variation-settings: "wght" 300;
+        font-weight: 900;
+    }
+}
+
+
+main {
+    /*max-height: 100%;*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*font-style: 10rem;*/
 }
