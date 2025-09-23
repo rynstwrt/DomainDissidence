@@ -1,6 +1,6 @@
-# DomainDissidents
+# DomainDissidence
 
-### My UT Dallas Capstone project for Fall 2025 graduation.
+#### *My UT Dallas Capstone project for Fall 2025 graduation.*
 
 <br>
 
