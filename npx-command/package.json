@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Protest against coorperate misdoings through generating a website to encourage brand boycotts en masse.",
     "bin": {
-        "ddissidence": "OLD/ddissidence-cmd.js.backup2"
+        "ddissidence": "ddissidence-cmd.js"
     },
     "devDependencies": {
         "yargs": "^18.0.0"
@@ -13,6 +13,7 @@
         "jsonc": "^2.0.0",
         "jsonc-parser": "^3.3.1",
         "jsonfile": "^6.2.0",
+        "smol-toml": "^1.4.2",
         "toml": "^3.0.0",
         "yargs-parser": "^22.0.0"
     }
