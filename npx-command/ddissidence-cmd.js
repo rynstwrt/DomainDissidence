@@ -3,13 +3,16 @@
 // const configManager = require("./DDConfigManager.js");
 //
 (async () => {
-    const DDConfigManager = require("./DDConfigManager.js");
-    const configManager = new DDConfigManager();
+    // const DDConfigManager = require("./DDConfigManager.js");
+    const configManager = new (require("./DDConfigManager.js"))();
 
-    console.log(configManager.configPath)
+    // console.log(configManager.configPath)
     await configManager.loadConfig()
 
-    console.log(configManager.configText, configManager.config)
+    // console.log(configManager.configText, "\n\n", configManager.config)
+    // console.log(configManager.config.title)
+
+    console.log(configManager.config.colors)
 })();
 
 

@@ -1,0 +1,9 @@
+website_output_path = "./DDissidenceWebsite"
+
+
+[branding]
+title="FindBestDeals"
+
+
+[colors]
+primary = "#FF6060"
