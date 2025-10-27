@@ -1,0 +1,105 @@
+<!--    <!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    &lt;!&ndash; META TAGS • ENCODING/ENABLE RESPONSIVE WEB BEHAVIOR &ndash;&gt;-->
+<!--    <meta charset="UTF-8">-->
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1">-->
+
+<!--    &lt;!&ndash; META TAGS • TITLE &ndash;&gt;-->
+<!--    <title>Domain Dissidents</title>-->
+<!--    <meta name="title" content="">-->
+<!--    <meta property="og:title" content="">-->
+<!--    <meta property="twitter:title" content="">-->
+
+<!--    &lt;!&ndash; META TAGS • DESCRIPTION &ndash;&gt;-->
+<!--    <meta name="description" content="">-->
+<!--    <meta property="og:description" content="">-->
+<!--    <meta property="twitter:description" content="">-->
+
+<!--    &lt;!&ndash; META TAGS • URL &ndash;&gt;-->
+<!--    <meta property="og:url" content="">-->
+<!--    <meta property="twitter:url" content="">-->
+
+<!--    &lt;!&ndash; META TAGS • COLORS &ndash;&gt;-->
+<!--    <meta name="theme-color" content="">-->
+
+<!--    &lt;!&ndash; META TAGS • OG EMBEDS &ndash;&gt;-->
+<!--    <meta property="og:type" content="website">-->
+<!--    <meta property="og:image" content="">-->
+<!--    <meta property="og:image:alt" content="">-->
+<!--    <meta property="og:image:url" content="">-->
+<!--    <meta property="og:image:secure_url" content="">-->
+<!--    <meta property="og:image:type" content="">-->
+<!--    <meta property="og:image:width" content="">-->
+<!--    <meta property="og:image:height" content="">-->
+
+<!--    &lt;!&ndash; META TAGS • TWITTER EMBEDS &ndash;&gt;-->
+<!--    <meta property="twitter:card" content="summary_large_image">-->
+<!--    <meta property="twitter:image" content="">-->
+
+<!--    &lt;!&ndash; META TAGS • AUTHOR (INTENTIONALLY UNUSED) &ndash;&gt;-->
+<!--    &lt;!&ndash; <meta name="author" content=""> &ndash;&gt;-->
+
+<!--    &lt;!&ndash; FAVICON &ndash;&gt;-->
+<!--    <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">-->
+<!--    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">-->
+<!--    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">-->
+
+<!--    &lt;!&ndash; GOOGLE FONTS &ndash;&gt;-->
+<!--    <link rel="preconnect" href="https://fonts.googleapis.com">-->
+<!--    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>-->
+<!--    &lt;!&ndash; <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend+Giga:wght@100..900		&family=Open+Sans:ital,wght@0,300..800;1,300..800		&family=Roboto:ital,wght@0,100..900;1,100..900		&family=Rubik:ital,wght@0,300..900;1,300..900		&display=swap" rel="stylesheet"> &ndash;&gt;-->
+
+<!--    <link href="https://fonts.googleapis.com/css2?-->
+<!--        family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900-->
+<!--        &family=Lexend+Giga:wght@100..900&-->
+<!--        family=Open+Sans:ital,wght@0,300..800;1,300..800&-->
+<!--        family=Roboto:ital,wght@0,100..900;1,100..900&-->
+<!--        family=Rubik:ital,wght@0,300..900;1,300..900&-->
+<!--        display=swap" rel="stylesheet">-->
+<!--		&lt;!&ndash; &family=Open+Sans:ital,wght@0,300..800;1,300..800 &ndash;&gt;-->
+<!--		&lt;!&ndash; &family=Roboto:ital,wght@0,100..900;1,100..900 &ndash;&gt;-->
+<!--		&lt;!&ndash; &family=Rubik:ital,wght@0,300..900;1,300..900 &ndash;&gt;-->
+
+<!--    &lt;!&ndash; STYLESHEETS &ndash;&gt;-->
+<!--    <link rel="stylesheet" type="text/css" href="./css/index.css">-->
+
+<!--    &lt;!&ndash; SCRIPTS &ndash;&gt;-->
+<!--    <script src="./js/browser-script.js"></script>-->
+<!--</head>-->
+<!--&lt;!&ndash; <body class="inter-variable-font"> &ndash;&gt;-->
+<!--&lt;!&ndash; <body class="roboto-variable-font"> &ndash;&gt;-->
+<!--&lt;!&ndash; <body class="open-sans-variable-font"> &ndash;&gt;-->
+<!--&lt;!&ndash; <body class="lexend-giga-variable-font"> &ndash;&gt;-->
+<!--<body class="rubik-variable-font">-->
+
+<!--    &lt;!&ndash; HEADER &ndash;&gt;-->
+<!--    <header>-->
+<!--        <h1 id="title">Domain<br>Dissidents</h1>-->
+
+<!--        <nav>-->
+<!--            <ul>-->
+<!--                <li><a href="#">Home</a></li>-->
+<!--                <li><a href="#">Deals</a></li>-->
+<!--                <li><a href="#">About</a></li>-->
+<!--                <li><a href="#">Contact</a></li>-->
+<!--            </ul>-->
+<!--        </nav>-->
+<!--    </header>-->
+
+
+<!--    &lt;!&ndash; LANDING PAGE &ndash;&gt;-->
+<!--    <section id="landing-page">-->
+<!--        <p>landing page</p>-->
+<!--        <button>landing page button</button>-->
+<!--    </section>-->
+
+
+<!--    &lt;!&ndash; CENTER TEXT &ndash;&gt;-->
+<!--    &lt;!&ndash; <main class="inter-variable-font"> &ndash;&gt;-->
+<!--    <main>-->
+<!--        <p>COMING SOON</p>-->
+<!--    </main>-->
+
+<!--</body>-->
+<!--</html>-->

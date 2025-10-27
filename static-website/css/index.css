@@ -75,7 +75,7 @@
     border: none;
     box-sizing: border-box;
     font-family: inherit;
-    font-size: 19px;
+    font-size: 19px;    font-size: 19px;
 }
 
 
@@ -85,41 +85,25 @@ html, body {
 
 
 body {
-    background-color: var(--color-2);
     color: var(--color-3);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    /*font-style: normal;*/
 }
 
 
 header {
-    position: absolute;
+    position: fixed;
     top: 0;
     right: 0;
-    /*bottom: 0;*/
     left: 0;
-    background-color: red;
-    padding: 15px;
-
-    div#title-container {
-        /*position: relative;*/
-    }
-
-    h1#title {
-        font-variation-settings: "wght" 300;
-        font-weight: 900;
-    }
+    /*background-color: white;*/
 }
 
 
 main {
-    /*max-height: 100%;*/
-    /*display: flex;*/
-    /*flex-direction: column;*/
-    /*justify-content: center;*/
-    /*align-items: center;*/
-    /*font-style: 10rem;*/
+    /*background-color: red;*/
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
