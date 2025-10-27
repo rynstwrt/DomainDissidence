@@ -1,0 +1,18 @@
+{
+    "name": "domaindissidence",
+    "version": "1.0.0",
+    "description": "Protest against coorperate misdoings through generating a website to encourage brand boycotts en masse.",
+    "bin": {
+        "ddissidence": "ddissidence-cmd.js.backup2"
+    },
+    "devDependencies": {
+        "yargs": "^18.0.0"
+    },
+    "dependencies": {
+        "json5": "^2.2.3",
+        "jsonc": "^2.0.0",
+        "jsonc-parser": "^3.3.1",
+        "jsonfile": "^6.2.0",
+        "yargs-parser": "^22.0.0"
+    }
+}

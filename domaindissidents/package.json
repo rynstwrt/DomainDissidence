@@ -1,9 +1,0 @@
-{
-    "name": "domain-dissidents",
-    "version": "1.0.0",
-    "description": "Protest against coorperate misdoings through generating a website to encourage brand boycotts en masse.",
-    "main": "./index.js",
-    "scripts": {
-        "aaaa": "echo 'asdf'"
-    }
-}

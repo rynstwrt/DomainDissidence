@@ -1,0 +1,30 @@
+// const { safe as jsonc }  = require("jsonc")
+const { safe: jsonc }  = require("jsonc");
+const JSON5 = require("json5");
+const jsoncParser = require("jsonc-parser");
+const path = require("node:path");
+const fs = require("fs/promises");
+
+
+// const DEFAULT_CONFIG_PATH = "./config.jsonc";
+
+
+module.exports = class DDConfigManager {
+
+    // #DEFAULT_CONFIG_PATH = "./config.jsonc";
+
+    constructor(configPath="./config.jsonc") {
+        this.configPath = path.resolve(configPath);
+        this.config = undefined;
+        this.configText = undefined;
+    }
+
+
+    async loadConfig() {
+        const fileContent = await fs.readFile(this.configPath, "utf-8");
+        console.log(fileContent);
+        this.configText = fileContent;
+
+        this.config = jsonc.parse(fileContent);
+    }
+}
