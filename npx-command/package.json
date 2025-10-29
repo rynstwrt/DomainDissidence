@@ -2,6 +2,7 @@
     "name": "domaindissidence",
     "version": "1.0.0",
     "description": "Protest against coorperate misdoings through generating a website to encourage brand boycotts en masse.",
+    "type": "commonjs",
     "bin": {
         "ddissidence": "ddissidence-cmd.js"
     },

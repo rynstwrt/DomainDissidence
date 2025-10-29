@@ -17,7 +17,10 @@ async function loadConfig(configPath=DEFAULT_CONFIG_PATH) {
     //     console.error(err);
     // });
 
-    const toml = await fs.readFile(new URL("./config.toml", import.meta.url), "utf-8")
+    // const toml = await fs.readFile(new URL("./config.toml", import.meta.url), "utf-8")
+
+    configPath = path.join(__dirname, configPath);
+    const toml = await fs.readFile(configPath, "utf-8")
     console.log(toml)
 }
 

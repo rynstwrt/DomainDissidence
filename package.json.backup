@@ -24,5 +24,6 @@
         "customizable"
     ],
     "author": "Ryn Stewart",
-    "license": "UNLICENSE"
+    "license": "UNLICENSE",
+    "packageManager": "pnpm@10.15.1"
 }
