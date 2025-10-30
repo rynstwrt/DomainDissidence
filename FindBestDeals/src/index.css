@@ -1,6 +1,6 @@
 :root {
     font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-    line-height: 1.3;
+    /*line-height: 1.3;*/
     font-weight: 400;
     font-size: 14px;
 
@@ -73,6 +73,13 @@ html, body {
 
 body {
     background-color: var(--color-dark-2);
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*place-content: center;*/
+    /*height: 100%;*/
+    /*background-color: blue;*/
 }
 
 
@@ -86,6 +93,7 @@ header {
     right: 0;
     left: 0;
     padding: 5px var(--page-horiz-padding);
+    z-index: 10;
 
     #logo {
         height: 45px;

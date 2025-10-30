@@ -1,0 +1,88 @@
+main {
+    /*background-color: blue;*/
+    /*height: 100px;*/
+    /*width: 100%;*/
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    place-content: center;
+}
+
+#background {
+    background-color: red;
+    width: 100dvw;
+    height: 100dvh;
+    background-image: url("/landing-bg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: blur(10px) brightness(60%);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+
+    &:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        /*background-color: red;*/
+        background: var(--aquamarine);
+        background: linear-gradient(-63deg, var(--french-violet) 0%, var(--aquamarine) 100%);
+        opacity: 0.5;
+        /*background-blend-mode: multiply;*/
+        mix-blend-mode: lighten;
+        /*mix-blend-mode: overlay;*/
+    }
+}
+
+
+#landing-content {
+    /*background-color: blue;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    #landing-text {
+        /*color: red;*/
+        font-size: 1.6rem;
+
+        h1, p {
+            text-align: center;
+        }
+
+        h1 {
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 5rem;
+        }
+
+        p {
+            /*font-size: ;*/
+        }
+    }
+
+    #landing-buttons {
+        /*background-color: orange;*/
+        margin-top: 50px;
+
+        button {
+            background-color: white;
+            color: var(--color-dark-2);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            /*font-weight: bold;*/
+            text-align: center;
+            font-size: 1.25rem;
+            padding: 7px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+    }
+}
