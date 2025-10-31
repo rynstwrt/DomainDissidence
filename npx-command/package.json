@@ -1,10 +1,14 @@
 {
     "name": "domaindissidence",
     "version": "1.0.0",
-    "description": "Protest against coorperate misdoings through generating a website to encourage brand boycotts en masse.",
+    "description": "Generate a website to encourage mass boycotts of malicious brands -- without any programming knowledge!",
     "type": "commonjs",
     "bin": {
         "ddissidence": "ddissidence-cmd.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rynstwrt/DomainDissidence.git"
     },
     "devDependencies": {
         "yargs": "^18.0.0"
@@ -17,5 +21,19 @@
         "smol-toml": "^1.4.2",
         "toml": "^3.0.0",
         "yargs-parser": "^22.0.0"
-    }
+    },
+    "keywords": [
+        "domain",
+        "dissidents",
+        "protest",
+        "protests",
+        "domaindissidents",
+        "domaindissident",
+        "website",
+        "generator",
+        "template",
+        "customizable"
+    ],
+    "author": "Ryn Stewart",
+    "license": "UNLICENSE"
 }
