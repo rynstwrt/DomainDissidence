@@ -1,7 +1,7 @@
 {
     "name": "domaindissidence",
     "version": "1.0.0",
-    "description": "Generate a website to encourage mass boycotts of malicious brands -- without any programming knowledge!",
+    "description": "Generate a website to encourage mass boycotts of malicious brands — without any programming knowledge!",
     "type": "commonjs",
     "bin": {
         "ddissidence": "ddissidence-cmd.js"
