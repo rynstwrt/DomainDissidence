@@ -1,6 +1,6 @@
 # DomainDissidence
 
-#### Generate a website to encourage mass boycotts of malicious brands -- without any programming knowledge! 
+#### Generate a website to encourage mass boycotts of malicious brands — without any programming knowledge! 
 *My UT Dallas Capstone project for Fall 2025. ☄️*
 
 
