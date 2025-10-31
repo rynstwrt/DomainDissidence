@@ -6,25 +6,59 @@ main {
     flex-direction: column;
     height: 100%;
     place-content: center;
-}
 
-#background {
-    background-color: red;
-    width: 100dvw;
-    height: 100dvh;
-    background-image: url("/landing-bg.jpeg");
+    background-image: url("/landing-bg2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    filter: blur(10px) brightness(60%);
+    background-attachment: fixed;
+    /*backdrop-filter: blur(5px);*/
+}
+
+#background {
+    /*background-color: red;*/
+    width: 100dvw;
+    height: 100dvh;
+    background-image: url("/landing-bg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    backdrop-filter: blur(6px) brightness(70%) saturate(70%);
     position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
     z-index: -1;
+    /*z-index: -2;*/
+    display: none;
 
-    &:before {
+    &:after {
+        /*content: "";*/
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        /*background-color: red;*/
+        background: var(--aquamarine);
+        background: linear-gradient(-63deg, var(--french-violet) 0%, var(--aquamarine) 100%);
+        opacity: 0.3;
+        /*background-blend-mode: multiply;*/
+        mix-blend-mode: lighten;
+        /*mix-blend-mode: overlay;*/
+        z-index: 0;
+    }
+}
+
+
+#landing-particles {
+    /*z-index: -1;*/
+    /*opacity: 0.3;*/
+    /*filter: blur(5px);*/
+
+    &::before {
         content: "";
         position: absolute;
         top: 0;
@@ -36,14 +70,22 @@ main {
         background: linear-gradient(-63deg, var(--french-violet) 0%, var(--aquamarine) 100%);
         opacity: 0.5;
         /*background-blend-mode: multiply;*/
-        mix-blend-mode: lighten;
+        /*mix-blend-mode: lighten;*/
         /*mix-blend-mode: overlay;*/
+        background-blend-mode: lighten;
+        /*z-index: 0;*/
+        /*filter: blur(5px);*/
+    }
+
+    canvas {
+        opacity: .3;
     }
 }
 
 
 #landing-content {
     /*background-color: blue;*/
+    z-index: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -73,7 +115,7 @@ main {
         margin-top: 50px;
 
         button {
-            background-color: white;
+            background-color: var(--aquamarine);
             color: var(--color-dark-2);
             text-transform: uppercase;
             letter-spacing: 2px;
