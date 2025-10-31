@@ -1,6 +1,9 @@
 # DomainDissidence
 
-#### *My UT Dallas Capstone project for Fall 2025 graduation.*
+#### Protest against coorperate misdoings through generating a website to encourage brand boycotts en masse
+*My UT Dallas Capstone project for Fall 2025. ☄️*
+
+_My UT Dallas Capstone project for Fall 2025. ☄️_
 
 <br>
 
@@ -20,6 +23,4 @@
 3. Contribute to the new(ish) concept of internet-sourced activism.
 
 <br>
-
-## SIMILAR PREVIOUS PROJECTS
 
