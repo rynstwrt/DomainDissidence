@@ -6,7 +6,7 @@ export default function Layout() {
         <>
             <header>
                 <NavLink id="logo" to={"/"} end>
-                    <img src={"/logo/logo-remake2.png"} alt={"FindBestDeals logo"} />
+                    <img src={"logo/logo-remake2.png"} alt={"FindBestDeals logo"} />
                 </NavLink>
 
                 <nav>
