@@ -1,5 +1,4 @@
 # DomainDissidence
-
 #### Generate a website to encourage mass boycotts of malicious brands — without any programming knowledge! 
 *My UT Dallas Capstone project for Fall 2025. ☄️*
 
@@ -27,9 +26,9 @@
 <br>
 
 
-## NAVIGATING THIS REPOSITORY
-**There are two halves to this repo:**
-### 1. [./FindBestDeals/](/FindBestDeals)
-  - The website development itself.
-### 2. [./npx-command/](/npx-command)
-  - The npx command that users run.
+## NAVIGATING THE REPOSITORIES
+#### There are two repos for this project!
+### **1. [DomainDissidence-Generator](https://github.com/rynstwrt/DomainDissidence-Generator)**
+  - The repo for the command that generates the custom DomainDissidence website.
+### **2. [DomainDissidence-Website](https://github.com/rynstwrt/DomainDissidence)**
+  - The repo for the website designing and planning.
