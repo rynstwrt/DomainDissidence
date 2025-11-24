@@ -5,9 +5,10 @@
 
 ## Deliverables:
 - [ ] Downloadable NPM package/containerized app
+- [ ] The source code
 - [ ] A working demo
 - [ ] Documentation
-- [ ] The source code
+- [ ] Distribution website
 
 <br>
 
