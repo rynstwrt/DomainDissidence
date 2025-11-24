@@ -4,10 +4,10 @@
 <br>
 
 ## Deliverables:
-- Downloadable NPM package/containerized app 
-- A working demo
-- Documentation
-- The source code
+- [ ] Downloadable NPM package/containerized app
+- [ ] A working demo
+- [ ] Documentation
+- [ ] The source code
 
 <br>
 
