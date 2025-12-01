@@ -1,9 +1,21 @@
-# TODO:
-***All due December 9th, 2025.***
+# TASKLIST:
+
+## TODO:
+- Determine to use docker/etc
+- Make NPM package/NPX command
+- Dockerize it
+- Distribution website
+- Customizer website?
+
+# MECHANISM OF ACTION:
+1. `npm create vue@latest`
+2. asdf
+3. asdf
 
 <br>
 
 ## Deliverables:
+*All due December 9th, 2025.*
 - [ ] Downloadable NPM package/containerized app
 - [ ] The source code
 - [ ] A working demo
