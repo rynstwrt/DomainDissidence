@@ -9,18 +9,47 @@
 # \_______/  \______/ \__| \__| \__| \_______|\__|\__|  \__|\_______/ \__|\_______/ \_______/ \__| \_______| \_______|\__|  \__| \_______| \_______| #
 ######################################################################################################################################################
 
-# BRANDING
+# [BRANDING]
 [branding]
 title="FakeName"
 description="Find the best deals around!"
 
-# COLORS
+
+
+# [COLORS]
 [colors]
 primary="#FF6060"
 secondary="#F0F0F0"
 
-# COMPANY BOYCOTT LIST
+
+
+# [COMPANY BOYCOTT LIST]
+# Company 1
 [[company]]
 name="CompanyName1"
 logoURL="https://exampleimages.com/companyname1logo.png"
+fakeDeals=["Buy one get 1 free", "Get $20 with a purchase over $5!", "Six months free for students"]
+
+[[company.problem]]
+header="This is one issue with CompanyName1"
+body="This is a description of one issue with CompanyName1"
+
+[[company.problem]]
+header="This is another issue with CompanyName1"
+body="This is a description of another issue with CompanyName1"
+
+
+# Company 2
+[[company]]
+name="CompanyName2"
+logoURL="https://exampleimages.com/companyname2logo.png"
+fakeDeals=["Buy one get 1 free", "Get $20 with a purchase over $5!", "Six months free for students"]
+
+[[company.problem]]
+header="This is one issue with CompanyName2"
+body="This is a description of one issue with CompanyName2"
+
+[[company.problem]]
+header="This is another issue with CompanyName2"
+body="This is a description of another issue with CompanyName2"
 
