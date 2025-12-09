@@ -4,36 +4,51 @@
 
 *My UT Dallas Capstone project for Fall 2025. ☄️*
 
-### **Information** and **downloads** can be found at **https://domaindissidence.online**
+### More information can be found at **https://domaindissidence.online**.
+
+### Installation and usage can be found in [INSTALL.md](INSTALL.md).
+
+[//]: # (<br>)
+
+[//]: # (## Installation and usage:)
+[//]: # ([The install and usage tutorial can be found here.]&#40;INSTALL.md&#41;)
 
 
-<br>
+[//]: # (<br>)
 
-## Installation:
-[The install and usage tutorial can be found here.](INSTALL.md)
+[//]: # ()
+[//]: # (## About:)
 
-<br>
+[//]: # ()
+[//]: # (- A simple method of generating a spoof website that offers fake discount codes for problematic companies.)
 
-## About:
+[//]: # (- When the “coupons” are attempted to be redeemed, the website redirects to a list of all the exploitative behavior of the problematic companies instead.)
 
-- A simple method of generating a spoof website that offers fake discount codes for problematic companies.
-- When the “coupons” are attempted to be redeemed, the website redirects to a list of all the exploitative behavior of the problematic companies instead.
-- It’s designed to directly target and inform the patrons of said companies and to deter them from giving money towards detrimental activities.
+[//]: # (- It’s designed to directly target and inform the patrons of said companies and to deter them from giving money towards detrimental activities.)
 
+[//]: # ()
+[//]: # ()
+[//]: # (<!-- <br>)
 
-<!-- <br>
+[//]: # ()
+[//]: # ()
+[//]: # (# Installation:)
 
+[//]: # (Install via _____ by running the command:)
 
-# Installation:
-Install via _____ by running the command:
-> Example command -->
+[//]: # (> Example command -->)
 
+[//]: # ()
+[//]: # ()
+[//]: # (<br>)
 
-<br>
+[//]: # ()
+[//]: # ()
+[//]: # (## Project Goals:)
 
+[//]: # ()
+[//]: # (1. Offer a unique way for individuals to combat widespread injustice perpetuated by corporations/organizations.)
 
-## Project Goals:
+[//]: # (2. Solve the problem of citizens feeling voiceless when facing systemic/societal injustice.)
 
-1. Offer a unique way for individuals to combat widespread injustice perpetuated by corporations/organizations.
-2. Solve the problem of citizens feeling voiceless when facing systemic/societal injustice.
-3. Contribute to the new(ish) concept of internet-sourced activism.
+[//]: # (3. Contribute to the new&#40;ish&#41; concept of internet-sourced activism.)
