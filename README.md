@@ -14,6 +14,17 @@ More information can be found at **https://domaindissidence.online**.
 
 <br>
 
+[//]: # (## Features)
+
+[//]: # ()
+[//]: # (<br>)
+
+[//]: # ()
+[//]: # (## Pictures)
+
+[//]: # ()
+[//]: # (<br>)
+
 ## Technologies Used
 - [Node.js](https://nodejs.org/en)
 - [Vue.js](https://vuejs.org/)
@@ -22,3 +33,8 @@ More information can be found at **https://domaindissidence.online**.
 - [AnimeJS](https://animejs.com/)
 - [Particles.js](https://particles.js.org/)
 - ...and traditional HTML5, CSS3, and JavaScript.
+
+[//]: # (<br>)
+
+[//]: # ()
+[//]: # (## Future Plans)
