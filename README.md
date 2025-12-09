@@ -9,6 +9,10 @@
 
 <br>
 
+## Installation:
+[The install and usage tutorial can be found here.](INSTALL.md)
+
+<br>
 
 ## About:
 
