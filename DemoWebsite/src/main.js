@@ -1,18 +1,22 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import { createMemoryHistory, createRouter } from 'vue-router'
-import DealsView from '@/components/DealsView.vue'
-import HomeView from '@/components/HomeView.vue'
-import "@/css/main.scss";
+// import { createMemoryHistory, createRouter } from 'vue-router'
+// import DealsView from '@/components/DealsView.vue'
+// import HomeView from '@/components/HomeView.vue'
 
 
-const router = createRouter({
-    history: createMemoryHistory(),
-    routes: [
-        { path: "/", component: HomeView },
-        { path: "/deals", component: DealsView }
-    ]
-});
+// import "@/css/main.scss";
 
 
-createApp(App).use(router).mount("#app");
+// const router = createRouter({
+//     history: createMemoryHistory(),
+//     routes: [
+//         { path: "/", component: HomeView },
+//         { path: "/deals", component: DealsView }
+//     ]
+// });
+
+
+createApp(App)
+    // .use(router)
+    .mount("#app");

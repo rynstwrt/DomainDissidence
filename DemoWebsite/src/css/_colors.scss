@@ -1,6 +1,6 @@
 /*  COLOR OPTIONS  */
 $white: oklch(1 0 89.876);
-$white-soft: oklch(0.979 0 89.876);
+$white-soft: oklch(0.94 0 89.876);
 $white-mute: oklch(0.961 0 89.876);
 
 $black: oklch(0.209 0 89.876);
@@ -21,7 +21,11 @@ $text-dark-2: oklch(0.94 0 89.876 / 0.64);
 
 
 /*  SEMANTIC COLOR VARIABLES  */
-$background: $white;
+$background: #1f1e24;
+$surface: #362f38;
+$text: $white-soft;
+
+
 $background-soft: $white-soft;
 $background-mute: #18171c;
 
@@ -29,4 +33,4 @@ $border: $divider-light-2;
 $border-hover: $divider-light-1;
 
 $heading: $text-light-1;
-$text: $text-light-1;
+//$text: $text-light-1;
