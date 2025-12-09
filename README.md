@@ -21,4 +21,4 @@ More information can be found at **https://domaindissidence.online**.
 - [SCSS](https://sass-lang.com/)
 - [AnimeJS](https://animejs.com/)
 - [Particles.js](https://particles.js.org/)
-- ...and standard web languages (HTML5/CSS3/JavaScript)
+- ...and traditional HTML5, CSS3, and JavaScript.
