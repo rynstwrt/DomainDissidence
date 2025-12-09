@@ -1,54 +1,18 @@
 # DomainDissidence
 
+![domaindissidence.online landing page screenshot](assets/ddwebsitelandingpagecropped.png)
+
 **Generate a website to encourage mass boycotts of malicious brands — without any programming knowledge!**
 
 *My UT Dallas Capstone project for Fall 2025. ☄️*
 
-### More information can be found at **https://domaindissidence.online**.
+> More information can be found at **https://domaindissidence.online**.
 
 ### Installation and usage can be found in [INSTALL.md](INSTALL.md).
 
-[//]: # (<br>)
+[//]: # (<div align="center">)
 
-[//]: # (## Installation and usage:)
-[//]: # ([The install and usage tutorial can be found here.]&#40;INSTALL.md&#41;)
+[//]: # (    <img src="assets/ddwebsitelandingpagecropped.png" alt="domaindissidence.online website screenshot">)
 
+[//]: # (</div>)
 
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # (## About:)
-
-[//]: # ()
-[//]: # (- A simple method of generating a spoof website that offers fake discount codes for problematic companies.)
-
-[//]: # (- When the “coupons” are attempted to be redeemed, the website redirects to a list of all the exploitative behavior of the problematic companies instead.)
-
-[//]: # (- It’s designed to directly target and inform the patrons of said companies and to deter them from giving money towards detrimental activities.)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<!-- <br>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (# Installation:)
-
-[//]: # (Install via _____ by running the command:)
-
-[//]: # (> Example command -->)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (## Project Goals:)
-
-[//]: # ()
-[//]: # (1. Offer a unique way for individuals to combat widespread injustice perpetuated by corporations/organizations.)
-
-[//]: # (2. Solve the problem of citizens feeling voiceless when facing systemic/societal injustice.)
-
-[//]: # (3. Contribute to the new&#40;ish&#41; concept of internet-sourced activism.)
