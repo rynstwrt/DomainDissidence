@@ -11,3 +11,14 @@
 More information can be found at **https://domaindissidence.online**.
 
 ### Installation and usage can be found in [INSTALL.md](INSTALL.md).
+
+<br>
+
+## Technologies Used
+- [Node.js](https://nodejs.org/en)
+- [Vue.js](https://vuejs.org/)
+- [Vite](https://vite.dev/)
+- [SCSS](https://sass-lang.com/)
+- [AnimeJS](https://animejs.com/)
+- [Particles.js](https://particles.js.org/)
+- ...and standard web languages (HTML5/CSS3/JavaScript)
