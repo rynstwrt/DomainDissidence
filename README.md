@@ -17,12 +17,12 @@
 - It’s designed to directly target and inform the patrons of said companies and to deter them from giving money towards detrimental activities.
 
 
-<br>
+<!-- <br>
 
 
 # Installation:
 Install via _____ by running the command:
-> Example command
+> Example command -->
 
 
 <br>
