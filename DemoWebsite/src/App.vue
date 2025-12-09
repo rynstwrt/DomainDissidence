@@ -1,15 +1,13 @@
 <script setup>
 </script>
 
+
 <template>
     <header>
         <h1>DemoWebsite</h1>
-
         <nav>
             <RouterLink to="/">Home</RouterLink>
             <RouterLink to="/deals">Deals</RouterLink>
-            <!-- <RouterLink to="/contact">Contact</RouterLink> -->
-            <!-- <RouterLink to="/">Home</RouterLink> -->
         </nav>
     </header>
 
@@ -18,21 +16,27 @@
     </main>
 </template>
 
-<style scoped>
+
+<style lang="scss" scoped>
+    @use "./css/_colors.scss" as *;
+
     * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
     }
 
+
     body {
-        background-color: red;
+        //background-color: red;
     }
+
 
     header {
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 10px;
+        //background-color: $background-mute;
     }
 </style>
