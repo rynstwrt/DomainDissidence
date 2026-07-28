@@ -1,6 +1,6 @@
 # DomainDissidence
 
-![domaindissidence.online landing page screenshot](assets/ddwebsitelandingpagecropped.png)
+![domaindissidence.online landing page screenshot](.github/assets/ddonlinescreenshot.png)
 
 > **Generate a website to encourage mass boycotts of malicious brands — without any programming knowledge!**
 >
